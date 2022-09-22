@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  background: #23252c;
+}
+
+.container {
+  margin: 0 auto;
+  width: 325px;
+  background: #1a1b21;
+}
+
+.header {
+  text-align: center;
+}
+
+.about,
+.interests,
+.footer {
+  padding: 0 2em;
+}
+
+.header-image {
+  width: 325px;
+  height: 325px;
+  object-fit: cover;
+}
+
+.footer {
+  background: #161619;
+}
+.socials {
+  width: 30px;
+}
